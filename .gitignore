@@ -1,1 +1,4 @@
 .DS_Store
+logs/imdb-example/projector_config.pbtxt
+*.tsv
+logs/*
