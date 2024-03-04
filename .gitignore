@@ -1,6 +1,7 @@
 .DS_Store
 word-embeddings-visualization/glove.6B/*
-
 word-embeddings-visualization/wordembs-animated.pptx
 word-embeddings-visualization/wordembs-animated-xl.gif
 word-embeddings-visualization/wordembs-animated.gif
+SemanticSearch/flicker30K/*
+
