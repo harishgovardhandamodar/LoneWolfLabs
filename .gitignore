@@ -4,4 +4,6 @@ word-embeddings-visualization/wordembs-animated.pptx
 word-embeddings-visualization/wordembs-animated-xl.gif
 word-embeddings-visualization/wordembs-animated.gif
 SemanticSearch/flicker30K/*
-
+logs/imdb-example/projector_config.pbtxt
+*.tsv
+logs/*
