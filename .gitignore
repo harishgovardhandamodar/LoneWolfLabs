@@ -7,3 +7,4 @@ SemanticSearch/flicker30K/*
 logs/imdb-example/projector_config.pbtxt
 *.tsv
 logs/*
+SemanticSearch/flicker30k_image_embeddings.pkl
