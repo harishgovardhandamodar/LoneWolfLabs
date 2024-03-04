@@ -20,8 +20,8 @@ device = "cpu"
 model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
 preprocess = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 
-image_path = os.listdir('/Users/shashankvats/projects_openai/FlickerSearchEngine/flicker30k/Images/')
-image_path = ['/Users/shashankvats/projects_openai/FlickerSearchEngine/flicker30k/Images/' + path for path in image_path if '.jpg' in path]
+image_path = os.listdir('./flicker30k/Images/')
+image_path = ['./flicker30k/Images/' + path for path in image_path if '.jpg' in path]
 image_path.sort()
 
 captions_df = pd.read_csv('captions.csv')
