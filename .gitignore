@@ -2,3 +2,5 @@
 logs/imdb-example/projector_config.pbtxt
 *.tsv
 logs/*
+vectorize_codebase/example-codebase/*
+vectorize_codebase/example-codebase/*
