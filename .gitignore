@@ -8,3 +8,4 @@ logs/imdb-example/projector_config.pbtxt
 *.tsv
 logs/*
 SemanticSearch/flicker30k_image_embeddings.pkl
+vectorize_codebase/example-codebase/*
